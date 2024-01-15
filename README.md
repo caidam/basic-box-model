@@ -33,4 +33,4 @@ Please replace `username` with your actual GitHub username and `repository` with
 
 This way, you can have many pages set up, but each will be at a different URL based on the repository name. Enjoy building your website!
 
-(caidam.github.io/basic-box-model)[`https://caidam.github.io/basic-box-model`]
+[caidam.github.io/basic-box-model](https://caidam.github.io/basic-box-model)
