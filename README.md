@@ -32,3 +32,5 @@ Follow these steps to host a website using a project repository on GitHub:
 Please replace `username` with your actual GitHub username and `repository` with the name of your repository.
 
 This way, you can have many pages set up, but each will be at a different URL based on the repository name. Enjoy building your website!
+
+[`https://caidam.github.io/basic-box-model`]
