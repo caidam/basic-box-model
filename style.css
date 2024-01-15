@@ -5,14 +5,14 @@
     padding: 0;
 }
 
-body{
+body {
     margin: 0 auto;
 }
 
 nav {
     background-color: #a306b6;
     padding: 1rem;
-    margin-bottom: 2rem;
+    margin-bottom: 4rem;
 }
 
 nav li {
